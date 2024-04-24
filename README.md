@@ -12,8 +12,7 @@
  # Home Page
 
 <div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/5.jpg)
+![Screenshot 2024-04-25 002238](https://github.com/Manish12-verma/netflix-clone-frontEnd/assets/110876979/038e641d-f1b1-448d-ac8a-85115dc0b1a0)
 
 # Technology Used
 
